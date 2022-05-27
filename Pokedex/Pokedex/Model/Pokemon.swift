@@ -30,7 +30,7 @@ class Pokemon {
         self.spritePath = spritePosterPath
         
     }
-}
+} // End of class
 
 extension Pokemon {
     convenience init?(dictionary:[String:Any]) {
